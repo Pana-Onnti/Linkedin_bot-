@@ -2,7 +2,6 @@ import discord
 import requests
 
 
-api_discord = 'MTA5NzY1NjMzNjI4MTUwMTY5Ng.Gb62-k.7i-zwAmkv5E5-s3WjtTmV0AWX2hryF-0YKC7og'
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
