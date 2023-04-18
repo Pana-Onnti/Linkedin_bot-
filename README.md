@@ -1,5 +1,28 @@
-# Linkedin_bot- {Beta}
+# Linkedin_bot- {Beta [ v2 ]}
+Notas de version :
+  Se agregaron funcionalidades para un caso de uso general, a traves de un bot de discord donde cualquier usuario con conexion a internet puede pegar la imagen con las preguntas y obtener la respuesta adecuada 
+  
+  El bot seguira corriendo en google cloud esperando las peticiones.
+
 Script/Bot para resolver automaticamente los test de aptitudes de linkedin utilizando Google Cloud Vision AI para detectar los caracteres en las imagenes para luego pasarlas por API a ChatGTP 
+
+Actualmente sin reconocimiento para tratamiento especial de imágenes dentro de los test.
+
+
+![image](https://user-images.githubusercontent.com/97043308/232772007-293a6a77-3505-4ddd-9187-a44594dd909f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+# Linkedin_bot- {Beta} v.1
 
 Actualmente sin UI ni reconocimiento de imágenes dentro de los test
 
